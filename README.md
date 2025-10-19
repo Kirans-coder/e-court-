@@ -1,1 +1,1 @@
-# e-court-
+This is a focused Python scraper built specifically for the Indian eCourts portal. It's designed to automate two core tasks: checking if a specific case is listed for the day and downloading the complete daily cause list.
